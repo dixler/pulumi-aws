@@ -2,7 +2,8 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+* Ensure that resource types are primitive types and move any
+  existing direct type references to be AltTypes 
 
 ---
 
